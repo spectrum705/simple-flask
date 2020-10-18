@@ -3,5 +3,5 @@
  Feel free to contribute and make it better.
  
  
- dependecies:
+ dependencies:
    pip3 install Flask
