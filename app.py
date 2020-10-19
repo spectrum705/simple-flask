@@ -4,17 +4,17 @@ app = Flask(__name__)
 app.secret_key = "key-sama"
 
 memo = [ {
-        "author": "spectrum",
-        "title": "darkKnight",
-        "content": "buhahahahaha",
-        "date": "20 Jan"    
+        "author": "Spectrum",
+        "title": "DarkKnight",
+        "content": "I speak in a deep voice. I'm batman.",
+        "date": "29 Jan"    
         },
         
         {
-        "author": "mooshoo",
-        "title": "sky blue",
-        "content": "i like rain",
-        "date": "7 feb"    
+        "author": "Mooshoo",
+        "title": "Weirdo",
+        "content": "I am a weirdo, there's nothing to it.",
+        "date": "7 Mar"    
         },
     
     

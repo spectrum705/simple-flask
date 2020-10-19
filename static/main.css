@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a.article-title:hover {
-  color: #5042ca;
+  color: #3e0664;
   text-decoration: none;
 }
 
@@ -54,11 +54,16 @@ a.article-title:hover {
 .article-metadata {
   padding-bottom: 1px;
   margin-bottom: 4px;
-  border-bottom: 1px solid #e3e3e3
+  border-bottom: 1px solid #c284df
+  
 }
 
+/* .author-title {
+  color: #55ecb2;
+} */
+
 .article-metadata a:hover {
-  color: #333;
+  color: rgb(7, 105, 48);
   text-decoration: none;
 }
 
@@ -78,3 +83,4 @@ a.article-title:hover {
 .account-heading {
   font-size: 2.5rem;
 }
+
